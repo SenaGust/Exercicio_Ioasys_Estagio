@@ -7,7 +7,7 @@ using Todas_as_Estruturas_de_Dados;
 
 namespace Ajuda_Estágio_Ioasys
 {
-    class Exercicio3
+    class Exercicio3a
     {
         public static void Principal()
         {
